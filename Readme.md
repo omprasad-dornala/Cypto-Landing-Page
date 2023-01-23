@@ -23,7 +23,7 @@ This page focuses on positioning of elements and building a navbar.
 
 ## Deployed Version Link
 
-- [Live Demo]()
+- [Live Demo](https://crypto-landing-page-op.netlify.app/)
 
 ## Snapshot of Webpage
 
